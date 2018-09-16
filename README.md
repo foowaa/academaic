@@ -1,4 +1,4 @@
 # foowaa.github.io
 Academic Navigation Page for AI, ML, DNN, CV, etc.
 
-[foowaa.github.io](https://foowaa.github.io/academic)
+[foowaa.github.io/academic](https://foowaa.github.io/academic)
